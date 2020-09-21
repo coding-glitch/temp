@@ -1,0 +1,24 @@
+{
+  "Questionlist": [
+    {
+      "id": 1,
+      "key": "hairfall",
+      "text": "I have lots of fungus on my head and hair fall increases day by day. Dandruff and itchiness makes me more irritate. I have already used ketoconazole ,beclometasone, clotrimazole shampoo. Please recommend me for better control"
+    },
+    {
+      "id": 2,
+      "key": "stomach pain"
+      "text": "I had a pain like situation in my upper stomach portion. I happens when I woke up. The whole day a mild pain was there. Aa burning like situation. What was that?"
+    },
+  ],
+  "Answerlist": [
+    {
+       "id": 1,
+      "data": "Ciclopirox oleamine shampoo (8x, candidox, cwin shampoo etc) is very good. Shampoo on alternate day initially till dandruff clear then 2 time in a week (a gap of 3-4 days ). Take levocetirizine for itching. You can add ketoconazole stay on lotion (keraglo ad lotion) apply once night before shampoo and shampoo next morning. Leave shampoo foams for 5-10 mins."
+    },
+    {
+      "id": 2,
+      "data": "Mild burning pain in upper stomach usually points towards a diagnosis is acute gastritis. You need to take medicines as well as required change in diet like increase in fibre rich diet, avoid tea/ coffee on empty stomach, drink one litre water after waking up. Over all you also need to increase your water intake to 3 litres per day depending on your physical activity."
+    },
+  ],
+}
